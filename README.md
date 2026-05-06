@@ -1,4 +1,4 @@
-##📊 Census Data Statistical Analysis
+# 📊 Census Data Statistical Analysis
 
 📌 Overview
 
